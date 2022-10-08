@@ -1,0 +1,21 @@
+html {
+    background-color: #595959;
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#turn {
+    display: inline;
+    background-color: #6B0F1A;
+    margin-left: 2.5em;
+}
+
+/*
+purple - #31081F
+red - #6B0F1A
+
+
+*/
